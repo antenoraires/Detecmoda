@@ -1,0 +1,15 @@
+artifact_uri: file:///home/antenor/Documents/projetos/Detecmoda/detectar_moda/mlruns/0/72f635c3b28e4f82ac990c6255f498b2/artifacts
+end_time: 1733923838459
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72f635c3b28e4f82ac990c6255f498b2
+run_name: traveling-bug-781
+run_uuid: 72f635c3b28e4f82ac990c6255f498b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733923309652
+status: 3
+tags: []
+user_id: antenor
